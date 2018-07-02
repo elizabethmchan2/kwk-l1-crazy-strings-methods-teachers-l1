@@ -8,4 +8,3 @@ def crazy_strings(a,b)
   end
 end
 
-assert(crazy_strings("APPLE", "") == "ELPPA")
