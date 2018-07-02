@@ -4,4 +4,4 @@ def crazy_strings(a,b)
   puts "#{a.reverse.upcase}"
 end
 
-crazy_strings("apple","")
+crazy_strings("APPLE","")
