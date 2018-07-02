@@ -6,4 +6,4 @@ end
 
 crazy_strings("APPLE","")
 
-puts "APPLE".reverse.upcase
+puts "APPLE".reverse.upcase + "asdfasd"
